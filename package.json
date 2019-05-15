@@ -1,6 +1,6 @@
 {
   "name": "spoofysearch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Spoof Google Search Location (Good for SEO testing and bots)",
   "main": "index.js",
   "scripts": {
