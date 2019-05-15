@@ -1,0 +1,29 @@
+{
+  "name": "spoofysearch",
+  "version": "1.0.0",
+  "description": "Spoof Google Search Location (Good for SEO testing and bots)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brendanmanning/spoofysearch.git"
+  },
+  "keywords": [
+    "spoof",
+    "location",
+    "google",
+    "search",
+    "spoofy"
+  ],
+  "author": "Brendan Manning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brendanmanning/spoofysearch/issues"
+  },
+  "homepage": "https://github.com/brendanmanning/spoofysearch#readme",
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
+}
