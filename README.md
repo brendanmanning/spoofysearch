@@ -1,3 +1,7 @@
+## Motivation
+
+Automatically test Google queries pretending to be from any location. Helpful for webscraping, SEO testing, etc.
+
 ## Installing
 `npm install --save spoofysearch`
 
